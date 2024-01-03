@@ -33,9 +33,6 @@ Utilizing Beautiful Soup and other relevant libraries, data was scraped from [Re
 
 This analysis aims to provide valuable insights for potential buyers, sellers, or investors in the San Francisco Bay Area real estate market. The conclusion highlights San Francisco County as the most expensive and identifies key variables affecting property prices. The dominance of properties with 3 bedrooms or 2 bathrooms, particularly in Napa County, is a notable trend.
 
-## Acknowledgments
-
-This project was a collaborative effort, and contributors are acknowledged in the presentation slide.
 
 
 
