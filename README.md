@@ -35,7 +35,7 @@ This analysis aims to provide valuable insights for potential buyers, sellers, o
 
 ## Acknowledgments
 
-This project was a collaborative effort, and contributors are acknowledged in the analysis report.
+This project was a collaborative effort, and contributors are acknowledged in the presentation slide.
 
 
 
